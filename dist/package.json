@@ -1,0 +1,17 @@
+{
+  "name": "divine-controls",
+  "version": "0.0.0",
+  "description": "A TypeScript library for handling game controls.",
+  "type": "module",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/Divine-Star-Software/DivineControls"
+  },
+  "homepage": "https://github.com/Divine-Star-Software/DivineControls",
+  "author": "Divine Star Software",
+  "license": "MIT"
+}

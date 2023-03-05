@@ -1,0 +1,8 @@
+{
+    "task.allowAutomaticTasks": "on",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/dist": true,
+        "**/dist/testing/test/lib": true,
+      }
+}
